@@ -1,7 +1,9 @@
-function Header() {
-  return (
-    <header>
-      <h1>My Website is awesome and I'm working on main branch without communicating it to my team members</h1>
-    </header>
-  );
+function Header(){
+    return (
+        <div>
+            <h1>Header</h1>
+        </div>
+    )
 }
+
+export default Header;
